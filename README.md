@@ -1,2 +1,2 @@
 # Logo-Game
-A memory game 
+A memory game developed using React.js
