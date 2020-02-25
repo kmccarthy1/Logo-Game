@@ -1,3 +1,3 @@
-let ImageFileNames = ["alchemist.png", "ant.png", "bart.png", "bee.png", "boy.png", "girl.png", "homer.png", "lisa.png", "man.png", "panther.png", "plane.png", "pony.png", "robot.png", "sunshine.png", "pilot.png", "yoga.png"];
+let ImageFileNames = ["youtube.png", "adidas.png", "dell.png", "bk.png", "bmw.png", "toyota.png", "google.png", "klondike.png", "lego.png", "mac.png", "mozilla.png", "NASA.png", "tacobell.png", "twitter.png", "wiki.png", "windows.png", "puma.png", "pizzahut.png"];
 
 export default ImageFileNames;
