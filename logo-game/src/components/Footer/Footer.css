@@ -1,9 +1,7 @@
 .footer {
 
-    min-height: 100px;
-    background: #E5E5E5;
     position: relative;
-    padding-top: 10px;
+    margin-top: 40px;
   }
   
   .footer span {
