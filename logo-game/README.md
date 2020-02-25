@@ -1,3 +1,3 @@
-##Logo-Game
+Logo-Game
 
-#A memory game developed using React.js
+A memory game developed using React.js
